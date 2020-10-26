@@ -1,6 +1,6 @@
 # World Happiness Visualization and Prediction
 
-![3](https://user-images.githubusercontent.com/69224996/97126000-e97b4a00-16f2-11eb-81b4-b91c104ed33f.jpg)
+![5](https://user-images.githubusercontent.com/69224996/97237634-c27d5080-17a4-11eb-9bc1-f1a487d2485f.jpg)
 
 The World Happiness Report is a landmark survey of the state of global happiness. This report reviews the state of happiness in the world today and show how the new science of happiness explains personal and national variations in happiness. The happiness scores and rankings use data from the Gallup World Poll. The scores are based on answers to the main life evaluation question asked in the poll.
 
