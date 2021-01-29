@@ -25,6 +25,5 @@ There are three parts to my report as follows:
 
 Our first objective is to determine factors that are more important to live a happier life. Our second purpose is to implement several machine learning algorithms including Linear Regression, Decision Tree Regression, Random Forest Regression, Support Vector Regression and XGBoost Regression to predict the happiness scores throughout the world. We will compare the results to discover which algorithm works better for this specific dataset.
 
-
 </div>
 
